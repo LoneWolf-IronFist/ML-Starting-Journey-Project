@@ -1,2 +1,2 @@
-# ML-Starting-Journey-Project
+# ML-Starting-Learning-Journey
 First Codes 
